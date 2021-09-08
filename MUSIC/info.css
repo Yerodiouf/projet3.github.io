@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(66, 61, 61);
+}
+ul{
+    list-style-type: none;
+    margin-top: 80px;
+
+}
+li{
+    display: inline-block;
+    
+}
+a{
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+#menu{
+    margin-left: 70px;
+}
